@@ -243,7 +243,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 | ![Author 1](https://via.placeholder.com/100/667eea/FFFFFF?text=You) | ![Author 2](https://via.placeholder.com/100/764ba2/FFFFFF?text=Friend) |
 |:---:|:---:|
-| **[Your Name]** | **[Friend's Name]** |
+| **Ishpreet Singh** | **Rishikeshan S** |
 | Lead Developer | Co-Developer |
 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yourusername) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/friendusername) |
 
